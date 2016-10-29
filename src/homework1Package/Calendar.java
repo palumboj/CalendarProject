@@ -75,7 +75,7 @@ public class Calendar {
 				System.out.println("May "+ year);
 				System.out.println("Sun  Mon  Tue  Wed  Thu  Fri  Sat");
 			
-		}
+			}
 			else if(month == 6){
 				daysInMonth = 30;
 				System.out.println("June "+ year);
